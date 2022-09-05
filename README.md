@@ -11,5 +11,4 @@
 ## Project Link (GitHub): praveenbala462.github.io/frt_project/
 ## Project Demo URL (MS Azure): https://red-ocean-0bd1a9a10.1.azurestaticapps.net
 # Screenshots:
-## Home!
-[Screenshot (1428)](https://user-images.githubusercontent.com/111436706/188508742-f2109aee-cf6d-49ca-a4ee-a93d700d6986.png)
+## Home![Screenshot (1428)](https://user-images.githubusercontent.com/111436706/188508742-f2109aee-cf6d-49ca-a4ee-a93d700d6986.png)
