@@ -13,4 +13,10 @@
 # Screenshots:
 ## 1. Home![Screenshot (1428)](https://user-images.githubusercontent.com/111436706/188508742-f2109aee-cf6d-49ca-a4ee-a93d700d6986.png)![Screenshot (1429)](https://user-images.githubusercontent.com/111436706/188508928-e452ccc7-006e-4edf-8c8d-e4608a7b8df8.png)
 
-## 2. 
+## 2. About Us![Screenshot (1430)](https://user-images.githubusercontent.com/111436706/188509038-5c0b3acb-850c-4a9a-93b4-a63b8b4f4cea.png)
+## 3. Services![Screenshot (1431)](https://user-images.githubusercontent.com/111436706/188509149-8b45446b-87b0-454f-9bbb-720fc0f79378.png)
+## 4. Gallery![Screenshot (1432)](https://user-images.githubusercontent.com/111436706/188509158-e4cf5310-59af-4b47-bd5f-dc9063a4fe79.png)
+## 5. Contact![Screenshot (1433)](https://user-images.githubusercontent.com/111436706/188509221-a244a430-9a0e-4d30-9ba0-753510f4131b.png)
+## 6. Copyright![Screenshot (1434)](https://user-images.githubusercontent.com/111436706/188509274-4241de7e-a167-47fc-b41f-af777920a9bc.png)
+
+
