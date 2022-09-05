@@ -1,2 +1,2 @@
 # Final FRT Project
-## Industry: Lifestyle
+### Industry: Lifestyle
