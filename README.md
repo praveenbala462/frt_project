@@ -7,6 +7,8 @@
 ### Project Description:
  <p>   I have created a website named "Travelo" which will help the users or travelers to travel easily to their destiny place without any issue and it will reduce many efforts. I have added 5 sections that is Home, About Us, Services, Gallery and Contact. This website will contain all the information along with pictures of the selected destination place so it will be easy for the person to select the place and travel according to his/her wish. It will contain all the information of the nearby hotels of the destination place with pictures of the hotels, cost of stay, reviews etc., Hence Travelo will help lot of people to choose their destination place without any hesitation.</p>
  
-### Primary Azure Technologies: Static Web Apps, Web
+## Primary Azure Technologies: Static Web Apps, Web
 ## Project Link (GitHub): praveenbala462.github.io/frt_project/
 ## Project Demo URL (MS Azure): https://red-ocean-0bd1a9a10.1.azurestaticapps.net
+# Screenshots:
+## Home![Screenshot (1428)](https://user-images.githubusercontent.com/111436706/188508742-f2109aee-cf6d-49ca-a4ee-a93d700d6986.png)
