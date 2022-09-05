@@ -10,6 +10,7 @@
 ## Primary Azure Technologies: Static Web Apps, Web
 ## Project Link (GitHub): praveenbala462.github.io/frt_project/
 ## Project Demo URL (MS Azure): https://red-ocean-0bd1a9a10.1.azurestaticapps.net
+## Youtube Video Link: 
 # Screenshots:
 ## 1. Home![Screenshot (1428)](https://user-images.githubusercontent.com/111436706/188508742-f2109aee-cf6d-49ca-a4ee-a93d700d6986.png)![Screenshot (1429)](https://user-images.githubusercontent.com/111436706/188508928-e452ccc7-006e-4edf-8c8d-e4608a7b8df8.png)
 
